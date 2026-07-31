@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Haji
 
 🎓 MCA Graduate (2026)  
-🛡️ Cybersecurity Enthusiast | Aspiring SOC Analyst | Security Analyst  
+🛡️ Cybersecurity Enthusiast | Aspiring SOC Analyst | Security Analyst    
 🔐 Passionate about Blue Team Operations, Network Security, Application Security & Security Monitoring
 
 ---
